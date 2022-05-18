@@ -1,0 +1,17 @@
+#Virtual environment
+venv
+
+#vscode設定檔
+/.vscode
+
+#python執行的檔案
+__pycache__/
+
+#jupyter notebook 檔案
+.ipynb_checkpoints/
+
+grpc-test
+
+output.txt
+
+pytorch-example/data
